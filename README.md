@@ -75,8 +75,3 @@ Run the following command in termincal from the root of the project to add initi
 rails db:seed
 ```
 Hurray! the project is ready to run.
-
-
-## If I had extra time
-
-> Improvements in UI/UX
